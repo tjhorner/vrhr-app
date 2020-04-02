@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VRHR</string>
+    <string name="server_url">Server URL</string>
+    <string name="save">Save</string>
+    <string name="waiting_for_watch_app">Waiting for watch app...</string>
+    <string name="helpful_hint">You can close the phone app if you want, but leave the watch app open.</string>
+</resources>
